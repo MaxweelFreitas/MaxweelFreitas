@@ -25,7 +25,7 @@
 - 🧩 **Integração entre linguagens** com FFI (Dart ↔ C/C++/Win32)  
 - 🛠️ **Sistemas embarcados e ferramentas de desenvolvimento (IDEs, DSLs)**  
 - 📦 **Serialização eficiente de dados (FlatBuffers)**  
-- 🔒 **Criptografia e autenticação segura (Libsodium, JWT)**  
+- 🔒 **Criptografia e autenticação segura (Libsodium, PASETO)**  
 - 📱 **Experiência mobile multiplataforma com Flutter**
 
 ---
