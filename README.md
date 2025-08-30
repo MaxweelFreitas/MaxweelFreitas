@@ -24,7 +24,7 @@
 - 🕹️ **Automação de jogos** com leitura de memória e reconhecimento de imagem  
 - 🧩 **Integração entre linguagens** com FFI (Dart ↔ C/C++/Win32)  
 - 🛠️ **Sistemas embarcados e ferramentas de desenvolvimento (IDEs, DSLs)**  
-- 📦 **Serialização eficiente (FlatBuffers)**  
+- 📦 **Serialização eficiente de dados (FlatBuffers)**  
 - 🔒 **Criptografia e autenticação segura (Libsodium, JWT)**  
 - 📱 **Experiência mobile multiplataforma com Flutter**
 
