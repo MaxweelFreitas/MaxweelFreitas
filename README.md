@@ -1,62 +1,54 @@
-# 👋 Olá! Eu sou Maxweel Freitas
+# 👋 Olá, eu sou Maxweel Freitas
 
-🎯 Desenvolvedor focado em automação, sistemas inteligentes e experiências ricas no Windows com **Flutter**, **FFI**, **Dart**, **C/C++** e **Go**.  
-💡 Apaixonado por criar bots autônomos, ArtCode, DSLs, ferramentas visuais e jogos interativos.  
-🔐 Com ênfase em performance, criptografia e integração com sistemas (C/C++).
+🚀 **Desenvolvedor Fullstack** | Especialista em criar arquiteturas escaláveis, soluções de alta performance e experiências digitais intuitivas.
+
+Com uma base sólida que transita desde o desenvolvimento de sistemas de baixo nível (C/C++, FFI, Go) até a construção de aplicações Web modernas (Next.js, PayloadCMS, Python), meu foco é transformar problemas complexos em produtos digitais funcionais, performáticos e alinhados às necessidades de negócio.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+### 💻 Desenvolvimento Fullstack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![PayloadCMS](https://img.shields.io/badge/PayloadCMS-000000?logo=payloadcms&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+### ⚙️ Backend, Infra & Low-Level
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![FlatBuffers](https://img.shields.io/badge/FlatBuffers-ED1C24?logo=flatbuffers&logoColor=white)
-![Libsodium](https://img.shields.io/badge/Libsodium-333333?logo=lock&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
-## 🧠 Áreas de Interesse
+## 🧠 Áreas de Especialização
 
-- 🕹️ **Automação de jogos** com leitura de memória e reconhecimento de imagem  
-- 🧩 **Integração entre linguagens** com FFI (Dart ↔ C/C++/Win32)  
-- 🛠️ **Sistemas embarcados e ferramentas de desenvolvimento (IDEs, DSLs)**  
-- 📦 **Serialização eficiente de dados (FlatBuffers)**  
-- 🔒 **Criptografia e autenticação segura (Libsodium, PASETO)**  
-- 📱 **Experiência mobile multiplataforma com Flutter**
-
----
-
-## 🌟 Projetos em Destaque
-
-- [🧰 Biblioteca de logs visuais e interativos para terminal (checklist, árvore, ASCII)](https://github.com/MaxweelFreitas/e_log)
-- [🎮 Sistema de bot inteligente para MMORPG com DSL customizada](https://github.com/MaxweelFreitas/mmorpg-bot)
-- [🧪 Comparativo técnico entre FlatBuffers e JSON em Dart](https://github.com/MaxweelFreitas/fp_dart)
-- [🧪 Comparativo técnico entre FlatBuffers e JSON com criptografia em Dart](https://github.com/MaxweelFreitas/dart_libsodium)
+- 🏗️ **Arquitetura de Sistemas:** Clean Architecture, DDD e sistemas resilientes.
+- 🌐 **Web de Alta Performance:** Otimização de SEO, Core Web Vitals e infraestrutura (CDN, DNS, SSL).
+- 🛡️ **Segurança & Observabilidade:** Compliance (LGPD), boas práticas OWASP e monitoramento proativo.
+- 🧩 **Engenharia de Software:** Integração entre linguagens (FFI), serialização eficiente e automação de baixo nível.
+- 🎨 **UX/UI & Design:** Criação de interfaces modernas com foco em conversão (Figma/Photoshop).
 
 ---
 
-## 📈 Estatísticas GitHub
+## 🚀 Projetos Recentes
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxweelFreitas&layout=compact&theme=radical)
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxweel-freitas) [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:maxweel.freitas@gmail.com)
+- [**BossaHub**](https://github.com/MaxweelFreitas) — Plataforma marketplace para a economia criativa (Fullstack).
+- [**VcInova Health Hub**](https://github.com/MaxweelFreitas) — Ecossistema de soluções tecnológicas para o setor de saúde.
+- [**e_log**](https://github.com/MaxweelFreitas/e_log) — Biblioteca de logs visuais e interativos para terminal.
+- [**MMORPG-Bot**] — Sistema de automação inteligente via DSL customizada e leitura de memória.
 
 ---
 
-## 🤖 Curiosidades
+## 📫 Vamos conversar?
 
-- ✍️ Crio desenhos usando Flutter  
-- 🧱 Estou desenvolvendo minha própria **IDE com DSL para automação**  
-- ⚙️ Trabalho em projetos que mesclam **visão computacional, AI simbólica e engenharia reversa**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxweel-freitas) 
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:maxweel.freitas@gmail.com)
 
 ---
 
-> _"Tecnologia bem usada é aquela que parece mágica para o usuário e transparente para o desenvolvedor."_ — Desconhecido. 😉
-
+> _"Tecnologia bem usada é aquela que parece mágica para o usuário e transparente para o desenvolvedor."_
